@@ -14,8 +14,8 @@ A Python tool that evaluates how strong a password is and gives actionable feedb
 
 ## How to run it
 1. Make sure Python is installed
-2. Clone the repo: `git clone https://github.com/your-username/password-strength-checker`
-3. Run: `python password_checker.py`
+2. Clone the repo: `git clone https://github.com/zainabaijaz257/password-strength-checker`
+3. Run: `password_checker.py`
 
 ## Screenshot
 ![Password Checker Demo](Screenshot.png)
