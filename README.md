@@ -25,4 +25,4 @@ Built this project to apply regular expressions and control flow logic in a real
 Password validation is a core concept in access control and user authentication systems.
 
 ## Author
-Zainab Aijaz · [LinkedIn](www.linkedin.com/in/zainab-aijaz-7513a73a5) · [GitHub](https://github.com/zainabaijaz257)
+Zainab Aijaz · [LinkedIn](https://www.linkedin.com/in/zainab-aijaz-7513a73a5) · [GitHub](https://github.com/zainabaijaz257)
