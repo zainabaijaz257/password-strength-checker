@@ -18,7 +18,7 @@ A Python tool that evaluates how strong a password is and gives actionable feedb
 3. Run: `python password_checker.py`
 
 ## Screenshot
-![Password Checker Demo](screenshot.png)
+![Password Checker Demo](Screenshot.png)
 
 ## What I learned
 Built this project to apply regular expressions and control flow logic in a real-world cybersecurity context. 
